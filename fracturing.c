@@ -1,3 +1,11 @@
+// Fracturing.c
+// Karim Badawy
+// 09.08.2024
+// COP 3223, Professor Parra
+// Calculates width, height, distance, area and perimeter
+// inputs x and y values
+
+
 #include <stdio.h>
 #include <math.h>
 
